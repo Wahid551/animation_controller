@@ -1,6 +1,6 @@
 # animation_controller
 
-I used Animation controller , Animation Builder , Colors Tweens and Reverse Animation with example of Favouriting or un_favouriting some thing.
+I used Animation controller , Animation Builder , Colors Tweens , Curve Animation and Reverse Animation with example of Favouriting or un_favouriting some thing.
 
 ## Gif
 
